@@ -1,1 +1,1 @@
-# my-terraform-aws
+# Terraform code for my project 
